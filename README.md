@@ -1,7 +1,7 @@
 # DelayedMessage
 
 # Installation
-Download the [Shortcut](workflow://shortcuts/a944231870ee47aeb36add41d1adc82f)
+Download the [Shortcut](https://icloud.com/shortcuts/a944231870ee47aeb36add41d1adc82f)
 
 # Help
 ## How to Use
