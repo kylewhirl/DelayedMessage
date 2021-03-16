@@ -2,7 +2,10 @@
 
 # Help
 ## How to Use
-The shortcut has many different options, but the easiest method is to choose Select Contacts -> Select your contacts -> Select date & time -> Type message -> Wait for the notification
+The shortcut has many different options, but the easiest method is to choose: 
+* "Select Contacts" -> Select your contacts -> Select date & time -> Type message -> Wait for the notification
+
+After you have set up your message, you will receive a notification at the date and time you specified. When you click this notification, the text will be sent automatically. 
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
