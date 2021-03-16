@@ -15,7 +15,7 @@ Options:
 * Select Contacts
    * Select one or multiple contacts
 * Settings
-   * Click a setting to change it from enabled to disabled or vice versa. More information on the Settings menu is [here](###Settings)
+   * Click a setting to change it from enabled to disabled or vice versa. More information on the Settings menu is [here](#Settings)
 * Donate
 * Exit
 ### Settings
