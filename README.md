@@ -17,8 +17,12 @@ Options:
 * Settings
    * Click a setting to change it from enabled to disabled or vice versa. More information on the Settings menu is [here](#Settings)
 * Donate
+   * PayPal, Venmo, Cash App, Buy Me a Coffee, Zelle, and Google Pay
 * Exit
+   * Leave the Shortcut
 ### Settings
+Options:
+* Show Message Preview when Sending
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
