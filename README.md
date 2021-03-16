@@ -28,6 +28,15 @@ Options:
 * Input Date & Time as Text
    * Enabled: Type the date and time. Some [Date Examples](#Date Examples) are below
    * Disabled: Use the date and time selector built into Shortcuts
+* Confirm Search Result
+   * Enabled: If a contact search only brings up one result, a confirmation of the result will appear
+   * Disabled: No confirmation will appear and the only result will be automatically selected
+* Maximum Efficiency
+   * Enabled: Will disable menus for the fastest way to schedule a Delayed Message
+   * Disabled: All menus will show
+* Emojify
+   * Enabled: Menu Icons will be emojis
+   * Disabled: Default Menu Icons
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
