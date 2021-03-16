@@ -81,4 +81,4 @@ Some important notes:
    * Noon/Dawn: 12:00 PM
 
 ## Support
-Please email any questions, comments, or bugs to <mailto:support@kylewhirl.com ?subject=Delayed%20Message> with the subject starting with "Delayed Message"
+Please email any questions, comments, or bugs to [support@kylewhirl.com](mailto:support@kylewhirl.com ?subject=Delayed%20Message) with the subject starting with "Delayed Message"
