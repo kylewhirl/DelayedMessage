@@ -5,7 +5,20 @@
 The shortcut has many different options, but the easiest method is to choose: 
 * "Select Contacts" -> Select your contacts -> Select date & time -> Type message -> Wait for the notification
 
-After you have set up your message, you will receive a notification at the date and time you specified. When you click this notification, the text will be sent automatically. 
+After you have set up your message, you will receive a notification at the date and time you specified. When you click this notification, the text will be sent automatically.
+
+## Menus
+### Main Menu
+Options: 
+* Search for Contact
+   * Type in any part of the contact's name or nickname
+* Select Contacts
+   * Select one or multiple contacts
+* Settings
+   * Click a setting to change it from enabled to disabled or vice versa. More information on the Settings menu is [here](##Settings)
+* Donate
+* Exit
+ 
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
