@@ -1,5 +1,8 @@
 # DelayedMessage
 
+# Installation
+Download the [Shortcut](workflow://shortcuts/a944231870ee47aeb36add41d1adc82f
+
 # Help
 ## How to Use
 The shortcut has many different options, but the easiest method is to choose: 
