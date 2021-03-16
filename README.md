@@ -1,12 +1,13 @@
 # DelayedMessage
-## Quick Links
-* [Delayed Message](https://www.icloud.com/shortcuts/a91f4891084f48b59a66a48e5243be5e)
-* [Delayed Message for Pushcuts](https://www.icloud.com/shortcuts/26792b7454d048d8a25e57c7ec34e76f)
-* [Delayed Message for Toolbox Pro](https://www.icloud.com/shortcuts/ee4c915fb09c4d0f9dcb407656600240)
+
 Do you ever forget to text people? If you do, download this shortcut! It notifies you when to text someone, and all you have to do is tap the notification to send them the message.
 
 Let's say you have to text your boss you're not gonna make it into work because you're extremely "sick", but it's 2:53 AM. Run this shortcut, select your boss's contact, type out your message, and specify when to send it. You'll receive a notification at that time and all you have to do is tap it.
 
+## Quick Links
+* [Delayed Message](https://www.icloud.com/shortcuts/a91f4891084f48b59a66a48e5243be5e)
+* [Delayed Message for Pushcuts](https://www.icloud.com/shortcuts/26792b7454d048d8a25e57c7ec34e76f)
+* [Delayed Message for Toolbox Pro](https://www.icloud.com/shortcuts/ee4c915fb09c4d0f9dcb407656600240)
 # Installation
 1. Download the [Shortcut](https://www.icloud.com/shortcuts/a91f4891084f48b59a66a48e5243be5e)
 2. Run it
