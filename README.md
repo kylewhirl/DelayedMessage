@@ -6,7 +6,8 @@ Let's say you have to text your boss you're not gonna make it into work because 
 # Installation
 1. Download the [Shortcut](https://www.icloud.com/shortcuts/a91f4891084f48b59a66a48e5243be5e)
 2. Run it
-3. Install either [Pushcuts](https://apps.apple.com/us/app/pushcut-shortcuts-automation/id1450936447?uo=4) or [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977?uo=4)(Requires Premium $5.99)
+3. Install either [Pushcuts](https://apps.apple.com/us/app/pushcut-shortcuts-automation/id1450936447?uo=4) or [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977?uo=4) (Requires Premium $5.99)
+
 There are two files (about 8MB) that will download within the shortcut. These files are responsible for the menu options.
 
 # Help
