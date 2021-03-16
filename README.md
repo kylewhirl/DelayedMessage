@@ -79,3 +79,6 @@ Some important notes:
    * Afternoon: 3:00 PM
    * Night/Evening: 7:00 PM
    * Noon/Dawn: 12:00 PM
+
+##Support
+Please email any questions, comments, or bugs to support@kylewhirl.com with the subject starting with "Delayed Message"
