@@ -26,7 +26,7 @@ Options:
    * Enabled: When you receive and open the notification, a manual confirmation and preview of the text will show before sending the message
    * Disabled: No preview and the message will be sent automatically after opening the notification
 * Input Date & Time as Text
-   * Enabled: Type the date and time. Some [Date Examples](#Date Examples) are below
+   * Enabled: Type the date and time. Some [Date Examples](#Date-Examples) are below
    * Disabled: Use the date and time selector built into Shortcuts
 * Confirm Search Result
    * Enabled: If a contact search only brings up one result, a confirmation of the result will appear
