@@ -47,6 +47,9 @@ Options:
 * Emojify
    * Enabled: Menu Icons will be emojis
    * Disabled: Default Menu Icons
+* Notification App
+   * Toolbox Pro: Uses Toolbox Pro Premium to send the notification. This option is easier to use and looks better, but costs $5.99
+   * Pushcuts: Uses Pushcuts to send the notification. Make sure to open the "Shortcuts" tab in this app and tap "Update Shortcuts" at the bottom
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
