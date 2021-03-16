@@ -1,7 +1,10 @@
 # DelayedMessage
 
 # Installation
-Download the [Shortcut](https://icloud.com/shortcuts/a944231870ee47aeb36add41d1adc82f)
+1. Download the [Shortcut](https://icloud.com/shortcuts/a944231870ee47aeb36add41d1adc82f)
+2. Run it
+
+There are two files (about 8MB) that will download within the shortcut. These files are responsible for the menu options.
 
 # Help
 ## How to Use
