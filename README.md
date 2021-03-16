@@ -10,6 +10,8 @@ Let's say you have to text your boss you're not gonna make it into work because 
 
 If you want a super simple and quick version that works only with Pushcuts, download it [here](https://www.icloud.com/shortcuts/26792b7454d048d8a25e57c7ec34e76f). 
 
+For Toolbox Pro only, install [this Shortcut](https://www.icloud.com/shortcuts/ee4c915fb09c4d0f9dcb407656600240)
+
 There are two files (about 8MB) that will download within the shortcut. These files are responsible for the menu options.
 
 # Help
