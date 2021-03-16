@@ -1,4 +1,4 @@
-# DelayedMessage
+# Delayed Message
 
 Do you ever forget to text people? If you do, download this shortcut! It notifies you when to text someone, and all you have to do is tap the notification to send them the message.
 
