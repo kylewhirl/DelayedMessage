@@ -22,7 +22,12 @@ Options:
    * Leave the Shortcut
 ### Settings
 Options:
-* Show Message Preview when Sending
+* Show Message Preview
+   * Enabled: When you receive and open the notification, a manual confirmation and preview of the text will show before sending the message
+   * Disabled: No preview and the message will be sent automatically after opening the notification
+* Input Date & Time as Text
+   * Enabled: Type the date and time. Some [Date Examples](#Date Examples) are below
+   * Disabled: Use the date and time selector built into Shortcuts
 ## Date Examples
 You can format dates in many different ways. Some examples:
 * Today at 4 pm
